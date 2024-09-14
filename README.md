@@ -23,6 +23,7 @@ Clone this project in your folder by using this command
 Need to run composer and some commands
 ```bash
   composer installation
+  composer install
   npm install
   npm run dev
   php artisan storage:link
